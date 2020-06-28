@@ -14,6 +14,8 @@ Here collects my solutions which are different from the best-voted solution on C
 	- [Solution](./Python/4kyu/explosive_sum.py)
 - [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 	- [Solution](./Python/5kyu/first_non-repeating_character.py)
+- [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
+	- [Solution](./Python/4kyu/catching_car_mileage_numbers.py)
 - [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/)
 	- [Solution](./Python/5kyu/calculating_with_function.py)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
