@@ -24,7 +24,9 @@ Here collects my solutions which are different from the best-voted solution on C
 - [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457/solutions/python)
 	- [Solution](./Python/4kyu/decode_morse_advanced.py)
 
-- [Evaluating prefix Polish notation](https://www.codewars.com/kata/5e5b7f55c2e8ae0016f42339)
-	- [Solution](./Python/6kyu/evaluate_prefix_polish.py)
 - [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/)
 	- [Solution](./Python/4kyu/catching_car_mileage_numbers.py)
+- [Evaluating prefix Polish notation](https://www.codewars.com/kata/5e5b7f55c2e8ae0016f42339)
+	- [Solution](./Python/6kyu/evaluate_prefix_polish.py)
+- [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048/)
+	- [Solution](./Python/3kyu/calculator.py)

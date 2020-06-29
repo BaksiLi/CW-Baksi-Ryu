@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Evaluating prefix Polish notation
-# https://www.codewars.com/kata/5e5b7f55c2e8ae0016f42339
+# https://www.codewars.com/kata/5e5b7f55c2e8ae0016f42339/
 
 import re
 
