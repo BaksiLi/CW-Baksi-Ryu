@@ -13,7 +13,7 @@ operators = dict(zip('+-*/',
                       float.__truediv__)))
 
 
-def calc(expr: str) -> float:
+def calculate(expr: str) -> float:
     """Evluates infix expression.
     """
     global operators
@@ -26,7 +26,7 @@ def calc(expr: str) -> float:
         while '(' in expr:
             expr = re.sub(
                 r'\((-?\d[\d\.]*)( ([\+\-\*\/]) (-?\d[\d\.]*))+\)',
-                lambda m: str(calc(m.group(0).strip('()'))), expr
+                lambda m: str(calculate(m.group(0).strip('()'))), expr
             )
 
         # */
@@ -48,9 +48,9 @@ def calc(expr: str) -> float:
                 )
             )
 
-        return calc(expr)
+        return calculate(expr)
 
 
 class Calculator():
     def evaluate(self, expr):
-        return calc(expr)
+        return calculate(expr)

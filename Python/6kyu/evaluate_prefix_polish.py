@@ -34,7 +34,7 @@ def calculate2(expr: str) -> float:
     global operators
 
     while ' ' in expr:
-        expr = re.sub(r'([\+\-\*\/]) (-?\d[0-9\.\+\-]*) (-?\d[0-9\.\+\-]*)',
+        expr = re.sub(r'([\+\-\*\/]) (-?\d[\d\.]*) (-?\d[\d\.]*)',
                       lambda m: str(operators[m.group(1)](float(m.group(2)),
                                                           float(m.group(3)))),
                       expr)

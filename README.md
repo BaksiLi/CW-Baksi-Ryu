@@ -18,6 +18,8 @@ Here collects my solutions which are different from the best-voted solution on C
 	- [Solution](./Python/5kyu/simple_pig_latin.py)
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/)
 	- [Solution](./Python/6kyu/duplicate_encoder.py)
+- [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783/)
+	- [Solution](./Python/4kyu/all_balanced_parentheses.py)
 
 - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/)
 	- [Solution](./Python/6kyu/decode_the_morse_code.py)
